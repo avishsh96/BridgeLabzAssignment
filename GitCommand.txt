@@ -1,0 +1,224 @@
+  192  history | grep git
+  193  history | grep git |grep rm
+  196  rm -R .git
+  197  rmdir -R .git
+  198  rm -R .git
+  199  rmdir .git
+  201  rmdir /s .git
+  203  rm -R .git
+  207  rm gitWorkFlow.sh 
+  211  git init
+  212  git status
+  213  git add .
+  214  git commint -m "Welcome to Employee Wage Computation Program on Master Branch"
+  215  git commit -m "Welcome to Employee Wage Computation Program on Master Branch"
+  216  git remote add origin git@github.com:avishsh96/BridgeLabzAssignment.git
+  217  git push -u origin master
+  218  git checkout -b EmployeeAttendanceUC
+  226  git status
+  227  git ass .
+  228  git add .
+  229  git commit -m "employee check (Random function) Employee is present or absent"
+  230  git push
+  231  git push -origin EmployeeAttendanceUC
+  232  git status
+  233  git branch
+  234  git add .
+  235  git commit -m "employee check (Random function) Employee is present or absent"
+  236  git push
+  237  git push -u origin master
+  238  git branhc -a
+  239  git branch -a
+  240  git status
+  243  git add .
+  244  git status
+  249  rm -rf .git
+  254  git init
+  255  git add .
+  256  git status
+  257  git remote add origin git@github.com:avishsh96/BridgeLabzAssignment.git
+  258  git push -u origin master
+  259  git staus
+  260  git status
+  261  git commit -m "Welcome to Employee Wage Computation Program on Master Branch"
+  262  git remote add origin git@github.com:avishsh96/BridgeLabzAssignment.git
+  263  git remote add origin git@github.com:avishsh96/BridgeLabzAssignment.git
+  264  git push -u origin master
+  265  git log 
+  266  git branch EmployeeAttendanceUC
+  267  git branch -a
+  268  git checkout EmployeeAttendanceUC
+  269  git branch -a
+  271  git status
+  275  git status
+  276  git add .
+  277  git status
+  278  git commit -m "Attendance Employee check Presrnt or absent"
+  279  git status
+  282  git checkout master
+  285  git checkout EmployeeAttendanceUC 
+  288  git push origin EmployeeAttendanceUC 
+  289  git checkout master 
+  291  git merge EmployeeAttendanceUC
+  292  git branch
+  295  git push origin master
+  296  git branch
+  297  git checkout EmployeeAttendanceUC 
+  301  git status 
+  302  git add /
+  303  git add .
+  304  git commit -m "Removed echo welcome message"
+  305  git push
+  306  git push origin EmployeeAttendanceUC 
+  307  git checkout master 
+  310  git branch
+  311  git checkout -b DailyEmployeeWageUc
+  312  git brach
+  313  git branch
+  314  git status 
+  323  git branch
+  324  git checkout EmployeeAttendanceUC 
+  325  git checkout EmployeeAttendanceUC 
+  326  git checkout EmployeeAttendanceUC 
+  328  git add .
+  329  git commit -m "Adding Daily Wage functionality"
+  330  git checkout master 
+  332  git checkout EmployeeAttendanceUC 
+  333  git status
+  334  git stash
+  335  git status
+  336  git branch
+  337  git checkout EmployeeAttendanceUC 
+  344  git status
+  345  git add .
+  346  git commit -m "Added Random function empcheck"
+  347  git push origin EmployeeAttendanceUC 
+  348  git checkout -b master
+  349  git checkout master
+  350  git merge EmployeeAttendanceUC 
+  351  git push
+  354  git status
+  355  git add /
+  356  git add .
+  357  git commit -m "Restored welcome message"
+  358  git push
+  359  git branch
+  360  git checkout DailyEmployeeWageUc 
+  379  git status
+  380  git add .
+  381  git commit -m "added daily empployee Wage functionality"
+  382  git push
+  383  git push origin DailyEmployeeWageUc 
+  384  git merge DailyEmployeeWageUc 
+  385  git chekout master
+  386  git checkout master
+  387  git merge DailyEmployeeWageUc 
+  388  git diff
+  390  git status
+  391  git add .
+  392  git commit -m "fixed merge conflict"
+  393  git push
+  415  git checkout -b PartTimeEmpWage
+  431  git status
+  432  git add .
+  433  git commit -m "Added part time wage functionality using if else"
+  434  git push 
+  435  git push origin PartTimeEmpWage 
+  436  git checkout master 
+  437  git merge PartTimeEmpWage 
+  438  git push
+  442  git checkout -c SwitchCaseStatementUC
+  443  git checkout -b SwitchCaseStatementUC
+  444  git branch
+  450  mkdir gitPlay
+  451  cd gitPlay/
+  454  git init
+  455  git add .
+  456  git commit "welcome message"
+  457  git commit -m "welcome message"
+  458  git remote add origin git@github.com:avishsh96/play.git
+  459  git push -u origin master
+  460  git checkout -b branch1
+  465  git checkout master 
+  467  git push
+  468  git checkout branch1
+  469  git add .
+  470  git commit -m "added branch1 mesage in  branch1"
+  471  git psuh
+  472  git push
+  473  git push origin branch1 
+  475  git add .
+  476  git commit -m "spelling mistake resolved in branch"
+  477  git push ori
+  478  git checkout 
+  479  git checkout master
+  480  git merge branch1
+  481  git push
+  482  git checkout -b branch2
+  486  git satus
+  487  git status
+  488  git add.
+  489  git add .
+  490  git commit -m "added brach 2 from branch2"
+  491  git push origin branch2
+  492  git checkout master
+  493  git merge branch2
+  494  git push
+  507  git init
+  508  git add .
+  509  git commit -m "welocome 1 st commit"
+  510  git remote add origin git@github.com:avishsh96/play.git
+  511  git push -u origin master
+  512  git checkout -b "branch1"
+  513  git status
+  514  git branch
+  518  git status
+  519  git add .
+  520  git commit -m "from branch1 echo"
+  521  git push -u origin branch1
+  522  git checkout master
+  523  git merge branch1
+  524  git push
+  525  git checkout -b branch2
+  528  git add .
+  529  git commit -m "from branch2"
+  530  git push origin branch2
+  531  git push origin branch2
+  552  git status
+  579  git status
+  580  git add .
+  581  git commit -m "solving using Switch case statement"
+  582  git push origin SwitchCaseStatementUC 
+  583  git checkout master
+  584  git merge SwitchCaseStatementUC 
+  585  git push
+  586  git checkout -b WagesForMonthUC
+  596  git add .
+  597  git commit -m "Calculating Wages for a Month 20 worikngDays"
+  598  git push origin WagesForMonthUC 
+  599  git checkout master
+  600  git merge WagesForMonthUC 
+  601  git checkout -b WagesTillDaysorHoursUc
+  610  git add .
+  611  git commit -m "Emp Wages till condition is reached total working hrs or days for a month"
+  612  git push origin WagesTillDaysorHoursUc 
+  613  git checkout master
+  614  git merge WagesTillDaysorHoursUc 
+  615  git push
+  616  git checkout -b "UsingFunctionUc"
+  620  git add .
+  621  git commit -m "Refactored code function to get work Hours"
+  622  git push origin UsingFunctionUc 
+  623  git checkout master 
+  624  git merge UsingFunctionUc 
+  625  git push
+  627  git checkout -b DayAndDailyWageWithTotalWageUC
+  639  git status
+  640  git add .
+  641  git commit -m "final UC Storing Day,Daily and Total Wage using Dictionary"
+  642  git push origin DayAndDailyWageWithTotalWageUC 
+  643  git checkout master
+  644  git merge DayAndDailyWageWithTotalWageUC 
+  645  git push
+  647  history | grep git
+  648  history | grep git >>GitCommand.txt
