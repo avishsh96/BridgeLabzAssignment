@@ -1,11 +1,15 @@
 #!/bin/bash -x
 
 Wage_Per_Hr=20
-empCheck=$((RANDOM%3))
 isPartTime=1
 isFullTime=2
 
+totalWorkingDays=0
 
+while (( $totalWorkingDays<=20 ))
+do
+empCheck=$((RANDOM%3))
+((totalWorkingDays++))
 case $empCheck in
 	$isPartTime)
 		empHours=4
@@ -19,3 +23,4 @@ case $empCheck in
 esac
 totalSalary=$(($Wage_Per_Hr*$empHours))
 echo "totalSalry: "$totalSalary
+done
