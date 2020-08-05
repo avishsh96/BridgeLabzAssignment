@@ -5,11 +5,13 @@ isPartTime=1
 isFullTime=2
 
 totalWorkingDays=0
-
-while (( $totalWorkingDays<=20 ))
+MaxHours=100
+totalEmpHr=0
+while [[ $totalWorkingDays -le 20 && $totalEmpHr -le $MaxHours ]]
 do
 empCheck=$((RANDOM%3))
 ((totalWorkingDays++))
+((totalEmpHr++))
 case $empCheck in
 	$isPartTime)
 		empHours=4
